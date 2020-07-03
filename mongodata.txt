@@ -1,0 +1,5 @@
+
+mongod --port 27017 --dbpath="c:\data\db"
+
+
+mongo --port 27017  --authenticationDatabase "admin" -u "furioxd" -p

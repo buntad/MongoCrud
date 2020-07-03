@@ -1,0 +1,11 @@
+Utilizando
+express
+mongoose (manejo de datos)
+ejs (platillas)
+morgan (visualizar que pide la web)
+path
+npm i nodemon -D ( lo instalara en Developer Dependncies
+
+
+npm start
+npm run dev
